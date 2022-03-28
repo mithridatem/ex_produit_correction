@@ -14,7 +14,7 @@ ul{
 li{
     list-style-type: none;
     flex: auto;
-    padding-left: 50px;
+    padding-left: 10%;
 }
 li>a{
     color: white;
